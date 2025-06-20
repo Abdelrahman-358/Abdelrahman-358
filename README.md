@@ -7,8 +7,8 @@ I'm Abdelrahman Mostafa, a Computer Science and Engineering student with a passi
 ## 🧪 Projects
 
 - [**Gitlet**](https://github.com/AbdoMostfa2/Gitlet): A Java-based version control system
-- [**LibraTrack**](https://github.com/AbdoMostfa2/LibraTrack): Library management system 
-- [**2048 Game**](https://github.com/AbdoMostfa2/2048Game): Classic puzzle game
+- [**LibraTrack**](https://github.com/AbdoMostfa2/LibraTrack): A Library management system 
+- [**2048 Game**](https://github.com/AbdoMostfa2/2048Game): A Classic puzzle game
 - 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 

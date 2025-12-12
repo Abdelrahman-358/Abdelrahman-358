@@ -3,12 +3,6 @@
 I'm Abdelrahman Mostafa, a Computer Science and Engineering student with a passion for competitive programming, contributing to open source, and building cool projects.
 
 
-##  Projects
-
-- [**Gitlet**](https://github.com/AbdoMostfa2/Gitlet): A Java-based version control system
-- [**LibraTrack**](https://github.com/AbdoMostfa2/LibraTrack): A Library management system 
-- [**2048 Game**](https://github.com/AbdoMostfa2/2048Game): A Classic puzzle game
-- 
 
 ##  Open Source Contributions
 

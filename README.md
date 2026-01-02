@@ -17,5 +17,5 @@ I'm Abdelrahman Mostafa, a Computer Science and Engineering student with a passi
 
 ##  Connect with Me
 
--  Email: abdelrahman2772004@gmail.com
+-  Email: abdo.mostafa.dev@gmail.com
 -  [LinkedIn](https://linkedin.com/in/abdelrahman-mostafa-058636263)
